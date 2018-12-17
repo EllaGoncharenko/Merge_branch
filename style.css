@@ -1,3 +1,13 @@
 body{
     background: lavender;
 }
+
+h1{
+    font-size: 50px;
+    color:darkblue;
+
+}
+
+body div{
+    font-size: 28px;
+}
