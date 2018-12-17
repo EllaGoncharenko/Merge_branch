@@ -1,3 +1,17 @@
 body{
-    background: lavender;
+    background: skyblue;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.one {
+    background-color: lightblue;
+}
+.second{
+    background-color: rosybrown;
+}
+.third {
+    background-color: orange;
 }
